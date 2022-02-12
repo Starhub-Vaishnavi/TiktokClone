@@ -27,6 +27,16 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+      "config": {
+        "firebase":{apiKey: "AIzaSyDBuXivMPDL_IO1LpbBRYs4725_BQsl1Tc",
+          "authDomain": "rolldown-30d6f.firebaseapp.com",
+          "databaseURL": "https://rolldown-30d6f-default-rtdb.firebaseio.com",
+          "projectId": "rolldown-30d6f",
+          "storageBucket": "rolldown-30d6f.appspot.com",
+          "messagingSenderId": "429794226386",
+          "appId": "1:429794226386:web:13b6679a43ced54bf93d0b",
+          "measurementId": "G-RRWTNCRP2R"}
+      }
     }
   }
 }
